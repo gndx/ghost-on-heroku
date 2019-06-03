@@ -13,7 +13,8 @@
     "casper": "github:tryghost/Casper#2.10.1",
     "ghost": "^2.23.1",
     "ghost-storage-adapter-s3": "^2.3.0",
-    "mysql": "^2.14.1"
+    "mysql": "^2.17.1",
+    "npm": "^6.9.0"
   },
   "engines": {
     "node": "10.x"
